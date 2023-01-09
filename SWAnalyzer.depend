@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1673263172 source:c:\users\user\desktop\cpp\swanalyzer\main.cpp
+	<iostream>
+	"fbit.h"
+
+1673263513 c:\users\user\desktop\cpp\swanalyzer\fbit.h
+	<iostream>
+
+1673251707 source:c:\users\user\desktop\cpp\swanalyzer\fbit.cpp
+	"fbit.h"
+
+1673262130 source:c:\users\user\desktop\cpp\swanalyzer\fsfbit.cpp
+	"fsfbit.h"
+
+1673262119 c:\users\user\desktop\cpp\swanalyzer\fsfbit.h
+	"fbit.h"
+
